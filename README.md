@@ -13,3 +13,9 @@ For more background information, please read the article
 [A Model Driven Approach Accelerating Ontology-based IoT Applications Development](
 https://ceur-ws.org/Vol-2063/sisiot-paper4.pdf
 ).
+
+## Build
+
+```shell
+mvn clean install
+```
