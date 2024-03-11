@@ -16,6 +16,3 @@ target/
 
 ### Mac OS ###
 .DS_Store
-
-src/main/resources/*.xml
-src/main/resources/*.csv
